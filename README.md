@@ -6,6 +6,7 @@ O dataset utilizado pode ser acessado pelo [Kaggle](https://www.kaggle.com/datas
 
 ## Modelagem
 Foi utilizada a biblioteca do *scikit-learn* para fazer o aprendizado de máquina. Com os treinos e testes foi possível gerar a seguinte visualização:
+
 ![graph1](https://github.com/jpfreire0/salary-data/blob/main/graph1.png?raw=true)
 
 ## Conclusões
